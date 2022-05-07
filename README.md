@@ -10,23 +10,17 @@ This project was carried out during 6 weeks and was developed by the following t
 - Didier Law-Hine ([GitHub](https://github.com/dlawhine) / [LinkedIn](https://www.linkedin.com/in/didier-lh/))
 - Bocar Diop
 
-You can browse and run the [notebooks](./notebooks). You will need to install the dependencies (in a dedicated environment) :
-
-```
-pip install -r requirements.txt
-```
-
 
 ##
-## Jupyter Notebooks
+## Jupyter Notebook
 ##
-A full report explaining our 6-week project is available in the folder notebooks/
+A full report (in French) explaining our 6-week project is available in the folder [notebooks](./notebooks)
 
 
 ##
 ## Streamlit App
 ##
-A Streamlit app is available in the folder streamlit_app/
+A Streamlit app is available in the folder [streamlit_app](./streamlit_app).
 To run the app :
 
 ```shell
