@@ -12,10 +12,11 @@ This project was carried out during 6 weeks and was developed by the following t
 
 
 ##
-## Jupyter Notebook
+## Jupyter Notebook + Python scripts for webscraping
 ##
-A full report (in French) explaining our 6-week project is available in the folder [notebooks](./notebooks)
+A full report (in French) explaining our 6-week project is available in the folder [notebooks](./notebooks) : Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb
 
+Python scripts for webscraping are also available in this folder.
 
 ##
 ## Streamlit App
