@@ -5,7 +5,7 @@ This repository contains the code for our project **GameCashPy**, developed duri
 
 The goal of this project is to predict video game sales (machine learning regression).
 
-This project was carried out during 6 weeks and was developed by the following team :
+This project was carried out during 9 weeks and was developed by the following team :
 
 - Didier Law-Hine ([GitHub](https://github.com/dlawhine) / [LinkedIn](https://www.linkedin.com/in/didier-lh/))
 - Bocar Diop
@@ -14,7 +14,7 @@ This project was carried out during 6 weeks and was developed by the following t
 ##
 ## Jupyter Notebook + Python scripts for webscraping
 ##
-A full report (in French) explaining our 6-week project is available in the folder [notebooks](./notebooks) : Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb
+A full report (in French) explaining our 9-week project is available in the folder [notebooks](./notebooks) : Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb
 
 Python scripts for webscraping are also available in this folder.
 
