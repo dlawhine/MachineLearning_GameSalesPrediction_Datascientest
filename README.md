@@ -16,12 +16,12 @@ This project was carried out during 9 weeks and was developed by the following t
 ##
 A full report (in French) explaining our 9-week project is available in the folder [notebooks](./notebooks) : Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb
 
-Python scripts for webscraping are also available in this folder.
+Python scripts used for webscraping are also available in this folder.
 
 ##
-## Streamlit App
+## Streamlit WebApp
 ##
-A Streamlit app is available in the folder [streamlit_app](./streamlit_app).
+A Streamlit WebApp is available in the folder [streamlit_app](./streamlit_app).
 To run the app :
 
 ```shell
