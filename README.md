@@ -14,7 +14,9 @@ This project was carried out during 9 weeks and was developed by the following t
 ##
 ## Jupyter Notebook + Python scripts for webscraping
 ##
-A full report (in French) explaining our 9-week project is available in the folder [notebooks](./notebooks) : [Rapport_gamingsales_fev2022DS_bdiop_dlawhine](./notebooks/Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb) 
+A full report (in French) explaining our 9-week project is available in the folder [notebooks](./notebooks) : 
+
+[Rapport_gamingsales_fev2022DS_bdiop_dlawhine](./notebooks/Rapport_gamingsales_fev2022DS_bdiop_dlawhine.ipynb) 
 
 Python scripts used for webscraping are also available in this folder.
 
